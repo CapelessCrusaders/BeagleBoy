@@ -1,0 +1,4 @@
+This project is an entry in the Texas Instruments Intern Design Challenge 2013.
+It is a cape for the BeagleBone Black which turns the BBB into a handheld 
+gaming console with the addition of an LCD cape stacked on top or a controller
+when connected to an HDMI monitor. 
